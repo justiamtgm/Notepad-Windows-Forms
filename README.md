@@ -10,6 +10,7 @@
 ```The app consumes only 15 MB with a large text open! This incredible performance allows you to run the program on only 10.42 floppy disks. You only need 11 floppy drives, and one more to save the written file!```
 
 ```Feedback from users```
+
 ```9/10 - Kim Taylor:``` ```outstanding visuals, good price for such functionality.```
 
 ```10/10 - Christine Davis:``` ```does not connect to FBI servers like other notepads do.```
