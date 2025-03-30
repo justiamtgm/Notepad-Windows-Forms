@@ -11,7 +11,10 @@
 
 ```Feedback from users```
 ```9/10 - Kim Taylor:``` ```outstanding visuals, good price for such functionality.```
+
 ```10/10 - Christine Davis:``` ```does not connect to FBI servers like other notepads do.```
+
 ```11/10 - Laurie Lee:``` ```deleted work documents from my floppy disks to put this program in, and I have no regrets!```
+
 
 ```Notepad Windows Forms is a treat for people who work with text! Try it for only $9.99!```
